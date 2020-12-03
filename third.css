@@ -1,0 +1,112 @@
+body{
+	background-color:#c4b7a6;
+}
+.navbar-nav > li{
+  padding-left:70px;
+  padding-right:70px;
+}
+.col-lg-4{	
+	padding:5px;
+}	
+.map{
+	margin-left:80px;
+	width:250px;
+	height:270px;
+	transition: width 2s, height 2s;
+	box-shadow: 10px 10px 5px grey;
+}
+.map:hover{
+	width:350px;
+	height:330px;
+	box-shadow: 10px 10px 5px grey;
+}
+table{
+	margin-left:70px;
+	margin-bottom:50px;
+	padding:5px;
+	text-align:center;
+	box-shadow:4px 4px grey;
+	font-family: 'Lora', serif;
+}
+p{
+	font-family: 'Kalam', cursive;
+}
+h3{
+	font-family: 'Kalam', cursive;
+}
+h4{
+	text-align:center;
+	font-family: 'Lora', serif;
+}
+h5{
+	text-align:center;
+	font-family: 'Lora', serif;
+}
+#tiedot{
+	text-align:center;
+	font-family: 'Lora', serif;
+}
+.päivät{
+	margin: 8px;
+	padding:20px;
+}
+.kellonajat{
+	margin: 8px;
+	padding:5px;
+}
+.arki{
+	background:#e6e2d3;
+	border:1px solid black;
+}
+.lauantai{
+	background:#e6e2d3;
+	border:1px solid black;
+}
+.sunnuntai{
+	background:#bbab9b;
+	border:1px solid black;
+}
+.container {
+	text-align:center;
+}
+#yhteys{
+	width:200px;
+	height:180px;
+	box-shadow: 10px 10px 5px grey;
+	
+}
+#kalenteri{
+	width:180x;
+	height:160px;
+}
+#omistaja{
+	width:200px;
+	height:270px;
+	transition: width 2s, height 2s;
+	box-shadow: 10px 10px 5px grey;
+}
+#omistaja:hover{
+	width:250px;
+	height:330px;
+	box-shadow: 10px 10px 5px grey;
+}
+.footer{
+	text-align: center;
+	padding: 3px;
+	background-color: #3e4444;
+	color: white;
+	margin-top:10px;
+}
+.määrätty{
+	width:120px;
+}
+.twitter{
+	margin-right: 35px
+}
+.facebook{
+	margin-right: 20px
+}
+
+.instagram{
+	margin-right: 20px
+}

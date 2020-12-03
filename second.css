@@ -1,0 +1,51 @@
+body{
+	background-color:#c4b7a6;
+}
+p{
+	font-family: 'Kalam', cursive;
+}
+h5{
+	font-family: 'Lora', serif;
+}
+h3{
+	font-family: 'Kalam', cursive;
+}
+#tuotekuvaus{
+	font-family: 'Lora', serif;
+}
+.navbar-nav > li{
+  padding-left:70px;
+  padding-right:70px;
+}
+.card{
+	margin:15px;
+	box-shadow: 10px 10px 5px grey;
+}
+.checked {
+  color: orange;
+    transition: .3s transform cubic-bezier(.155,1.105,.295,1.12),.3s box-shadow,.3s -webkit-transform cubic-bezier(.155,1.105,.295,1.12);
+  cursor: pointer;
+}
+.card:hover{
+     transform: scale(1.05);
+}
+.footer{
+	text-align: center;
+	padding: 3px;
+	background-color: #3e4444;
+	color: white;
+	margin-top:10px;
+}
+.määrätty{
+	width:120px;
+}
+.twitter{
+	margin-right: 35px
+}
+.facebook{
+	margin-right: 20px
+}
+
+.instagram{
+	margin-right: 20px
+}

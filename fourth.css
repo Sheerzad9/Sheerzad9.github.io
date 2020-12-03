@@ -1,0 +1,83 @@
+body{
+	background-color:#c4b7a6;
+}
+.navbar-nav > li{
+  padding-left:70px;
+  padding-right:70px;
+}
+.first-grid{
+	background:#f2e6d9;
+}
+#vasen{
+	width:350px;
+	height:270px;
+	margin-top:5px;
+	box-shadow: 5px 5px 10px grey;
+	transition: 1s;
+}
+#vasen:hover{
+	width:390px;
+	height:340px;
+}
+#oikea{
+	width:350px;
+	height:270px;
+	float:right;
+	box-shadow: 5px 5px 10px grey;
+	transition:1s;
+}
+#oikea:hover{
+	width:390px;
+	height:340px;
+	float:right;
+	box-shadow: 5px 5px 10px grey;
+}
+#kolmas{
+	width:320px;
+	height:270px;
+	box-shadow: 5px 5px 10px grey;
+	margin-bottom:5px;
+	transition:1s;
+}
+#kolmas:hover{
+	width:360px;
+	height:320px;
+	box-shadow: 5px 5px 10px grey;
+}
+#palkki{
+	width:95%;
+}
+h3{
+	text-align:center;
+	margin-top:5px;
+	font-family: 'Kalam', cursive;
+}
+p{
+	text-align:center;
+	font-family: 'Kalam', cursive;
+}
+#tiedot{
+	text-align:center;
+	font-family: 'Lora', serif;
+}
+.footer{
+	text-align: center;
+	padding: 3px;
+	background-color: #3e4444;
+	color: white;
+	margin-top:10px;	
+	width:100%;
+}
+.määrätty{
+	width:120px;
+}
+.twitter{
+	margin-right: 35px
+}
+.facebook{
+	margin-right: 20px
+}
+
+.instagram{
+	margin-right: 20px
+}

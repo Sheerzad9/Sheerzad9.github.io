@@ -1,0 +1,78 @@
+body{
+	background-color:#c4b7a6;
+}
+#teksti{
+	font-family: 'Holtwood One SC';font-size: 22px;
+}
+p{
+	font-family: 'Kalam', cursive;
+}
+h1{
+	 font-family: 'Cherry Swash';
+	 text-align:center;
+	 letter-spacing:15px;
+	 word-spacing:10px;
+	 margin: 35px;
+}
+h2{
+	font-family: 'Cinzel', serif;
+	text-align:center;
+	font-size:35px;
+}
+h3{
+	font-family: 'Kalam', cursive;
+	font-size: 22px;
+	margin-top: 20px;
+}
+h4{
+	font-family: 'Goldman';
+	font-size: 22px;
+}
+.navbar-nav > li{
+  padding-left:70px;
+  padding-right:70px;
+}
+
+
+.uutiskirje{
+	background-color: #e6e2d3;
+	width: 300px;
+	height:610px;
+	border-left: 15px solid #c4b7a6;
+	padding: 30px;
+	margin-left: 10px;
+	margin-top:70px;
+	box-shadow: 10px 10px 5px grey;
+}
+.col-md-7{
+	margin-left:8%;
+	
+}
+.col-md-3{
+	text-align:center;
+}
+
+.palkki{
+	border-bottom:2px solid black;
+}
+
+.footer{
+	text-align: center;
+	padding: 3px;
+	background-color: #3e4444;
+	color: white;
+	margin-top:10px;
+}
+.määrätty{
+	width:120px;
+}
+.twitter{
+	margin-right: 35px
+}
+.facebook{
+	margin-right: 20px
+}
+
+.instagram{
+	margin-right: 20px
+}
