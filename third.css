@@ -10,7 +10,7 @@ body{
 }	
 .map{
 	margin-left:80px;
-	width:250px;
+	width:300px;
 	height:270px;
 	transition: width 2s, height 2s;
 	box-shadow: 10px 10px 5px grey;
