@@ -8,14 +8,14 @@ body{
 .col-lg-4{	
 	padding:5px;
 }	
-.map{
+#map{
 	margin-left:67px;
 	width:310px;
 	height:320px;
 	transition: width 2s, height 2s;
 	box-shadow: 10px 10px 5px grey;
 }
-.map:hover{
+#map:hover{
 	width:350px;
 	height:330px;
 	box-shadow: 10px 10px 5px grey;
