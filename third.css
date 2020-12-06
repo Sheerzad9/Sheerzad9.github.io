@@ -9,7 +9,7 @@ body{
 	padding:5px;
 }	
 .map{
-	margin-left:65px;
+	margin-left:60px;
 	width:290px;
 	height:300px;
 	transition: width 2s, height 2s;
