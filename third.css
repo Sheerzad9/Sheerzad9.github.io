@@ -9,8 +9,8 @@ body{
 	padding:5px;
 }	
 .map{
-	margin-left:70px;
-	width:270px;
+	margin-left:65px;
+	width:290px;
 	height:300px;
 	transition: width 2s, height 2s;
 	box-shadow: 10px 10px 5px grey;
